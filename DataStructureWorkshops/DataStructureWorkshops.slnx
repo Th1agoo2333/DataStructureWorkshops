@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Workshop01/">
+    <Project Path="ClassWork01.backend/ClassWork01.backend.csproj" Id="5e7fc13b-1448-4440-8625-a8e3795422cd" />
+    <Project Path="ClassWork01.Frontend/ClassWork01.Frontend.csproj" Id="e05951ab-a48c-414b-93ae-511966002995" />
+  </Folder>
+</Solution>
