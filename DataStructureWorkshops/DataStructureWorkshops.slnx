@@ -11,5 +11,7 @@
   <Folder Name="/Workshop03/28/">
     <Project Path="Exercise28/Exercise28.csproj" Id="ea8c2006-c184-40d7-9833-0ee5bb9eeaa7" />
   </Folder>
-  <Folder Name="/Workshop03/37/" />
+  <Folder Name="/Workshop03/37/">
+    <Project Path="Exercise37/Exercise37.csproj" Id="d6e708d2-fa13-41da-88a6-68d830a4fb2f" />
+  </Folder>
 </Solution>
