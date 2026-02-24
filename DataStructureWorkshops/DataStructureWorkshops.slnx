@@ -7,4 +7,9 @@
     <Project Path="Geometry.Backend/Geometry.Backend.csproj" Id="f2089554-f7a1-45e0-830d-f2f32af5878e" />
     <Project Path="Geometry.Frontend/Geometry.Frontend.csproj" Id="3d9490f2-6827-4f05-b4e9-a107c010e3e6" />
   </Folder>
+  <Folder Name="/Workshop03/" />
+  <Folder Name="/Workshop03/28/">
+    <Project Path="Exercise28/Exercise28.csproj" Id="ea8c2006-c184-40d7-9833-0ee5bb9eeaa7" />
+  </Folder>
+  <Folder Name="/Workshop03/37/" />
 </Solution>
