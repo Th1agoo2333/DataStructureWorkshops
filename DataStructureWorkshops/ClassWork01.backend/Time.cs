@@ -74,8 +74,7 @@ public class Time {
     {
         if (hours < 0 || hours > 23)
         {
-            throw new Exception(nameof(hours),
-                $"The hour: {hours}, is not valid");
+            throw new Exception ($"The hour: {hours}, is not valid");
         }
         return hours;
     }
@@ -84,8 +83,7 @@ public class Time {
     {
         if (minute < 0 || minute > 59)
         {
-            throw new Exception(nameof(minute),
-                "Minute must be between 0 and 59.");
+            throw new Exception("Minute must be between 0 and 59.");
         }
         return minute;
     }
@@ -94,8 +92,7 @@ public class Time {
     {
         if (second < 0 || second > 59)
         {
-            throw new Exception(nameof(second),
-                "Second must be between 0 and 59.");
+            throw new Exception("Second must be between 0 and 59.");
         }
         return second;
     }
@@ -104,8 +101,7 @@ public class Time {
     {
         if (millisecond < 0 || millisecond > 999)
         {
-            throw new Exception(nameof(millisecond),
-                "Millisecond must be between 0 and 999.");
+            throw new Exception("Millisecond must be between 0 and 999.");
         }
         return millisecond;
     }
